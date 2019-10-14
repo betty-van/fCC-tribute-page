@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.main {
+    padding-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+
+.title {
+    background-color: rgba(194, 194, 194, 0.733);
+    padding: 20px 0;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.img-div {
+margin-top: 20px;
+max-width: 100%;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+.tribute-info {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:rgba(194, 194, 194, 0.733) ;
+    text-align: center;
+
+}
+
+ul {
+    display: inline-block;
+    text-align:left; 
+    margin: 0 auto;
+}
